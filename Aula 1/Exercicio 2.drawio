@@ -1,0 +1,115 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
+  <diagram name="Página-1" id="TMV8l5S3RlX08hVpo_Og">
+    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tgn2-IS3KOhGCVHLxVVp-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tgn2-IS3KOhGCVHLxVVp-1" target="tgn2-IS3KOhGCVHLxVVp-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tgn2-IS3KOhGCVHLxVVp-1" value="Inicio" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="95" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tgn2-IS3KOhGCVHLxVVp-2" value="Fim" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tgn2-IS3KOhGCVHLxVVp-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tgn2-IS3KOhGCVHLxVVp-5" target="tgn2-IS3KOhGCVHLxVVp-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tgn2-IS3KOhGCVHLxVVp-5" value="Solicita o nome do primeiro jogador" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="165" width="80" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="tgn2-IS3KOhGCVHLxVVp-6" value="Solicita o nome do segundo&lt;div&gt;jogador&lt;/div&gt;" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="165" width="80" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="tgn2-IS3KOhGCVHLxVVp-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tgn2-IS3KOhGCVHLxVVp-7" target="tgn2-IS3KOhGCVHLxVVp-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tgn2-IS3KOhGCVHLxVVp-7" value="Solicita a idade do primeiro jogador" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="165" width="80" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="tgn2-IS3KOhGCVHLxVVp-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="tgn2-IS3KOhGCVHLxVVp-8" target="tgn2-IS3KOhGCVHLxVVp-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="740" y="335" />
+              <mxPoint x="155" y="335" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tgn2-IS3KOhGCVHLxVVp-8" value="Solicita a idade do segundo jogador" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="160" width="80" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="tgn2-IS3KOhGCVHLxVVp-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;entryX=0.577;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tgn2-IS3KOhGCVHLxVVp-11" target="tgn2-IS3KOhGCVHLxVVp-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="155" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tgn2-IS3KOhGCVHLxVVp-13" value="Sim" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="tgn2-IS3KOhGCVHLxVVp-12">
+          <mxGeometry x="-0.3407" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tgn2-IS3KOhGCVHLxVVp-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tgn2-IS3KOhGCVHLxVVp-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tgn2-IS3KOhGCVHLxVVp-22" value="&lt;b&gt;Não&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tgn2-IS3KOhGCVHLxVVp-16">
+          <mxGeometry x="-0.01" y="-3" relative="1" as="geometry">
+            <mxPoint x="3" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tgn2-IS3KOhGCVHLxVVp-11" value="Jogadores possuem a mesma idade?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="345" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="tgn2-IS3KOhGCVHLxVVp-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="tgn2-IS3KOhGCVHLxVVp-14" target="tgn2-IS3KOhGCVHLxVVp-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="630" />
+              <mxPoint x="740" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tgn2-IS3KOhGCVHLxVVp-14" value="Exibe a mensagem &quot;Ambos jogadores são da mesma idade&quot;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="80" y="570" width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="tgn2-IS3KOhGCVHLxVVp-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tgn2-IS3KOhGCVHLxVVp-17" target="tgn2-IS3KOhGCVHLxVVp-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="365" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tgn2-IS3KOhGCVHLxVVp-23" value="&lt;b&gt;Sim&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tgn2-IS3KOhGCVHLxVVp-18">
+          <mxGeometry x="-0.21" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tgn2-IS3KOhGCVHLxVVp-17" value="Idade do primeiro&lt;br&gt;&amp;nbsp;jogador é maior que a idade do segundo jogador?" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="280" y="340" width="170" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="tgn2-IS3KOhGCVHLxVVp-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="tgn2-IS3KOhGCVHLxVVp-19" target="tgn2-IS3KOhGCVHLxVVp-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tgn2-IS3KOhGCVHLxVVp-19" value="Exibe o nome do primeiro jogador" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="310" y="550" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tgn2-IS3KOhGCVHLxVVp-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tgn2-IS3KOhGCVHLxVVp-25" target="tgn2-IS3KOhGCVHLxVVp-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tgn2-IS3KOhGCVHLxVVp-25" value="Exibe o nome do Segundo jogador" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="500" y="390" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tgn2-IS3KOhGCVHLxVVp-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tgn2-IS3KOhGCVHLxVVp-17" target="tgn2-IS3KOhGCVHLxVVp-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tgn2-IS3KOhGCVHLxVVp-38" value="&lt;b&gt;Não&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tgn2-IS3KOhGCVHLxVVp-26">
+          <mxGeometry x="-0.1257" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tgn2-IS3KOhGCVHLxVVp-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.01;entryY=0.531;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tgn2-IS3KOhGCVHLxVVp-6" target="tgn2-IS3KOhGCVHLxVVp-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
